@@ -1,0 +1,17 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Maven build output
+target/
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IntelliJ shelves
+/shelf/
